@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co/your-banner-link.png)
+![Banner](https://ibb.co.com/MDXdFrDY)
 
 # 👋 Hi, I'm Md Mahmud Ullah Hasan
 ### Junior MERN Stack Developer
@@ -44,20 +44,4 @@ I am consistent in learning, problem-solving, and improving my full-stack develo
 <p>
   <a href="https://github.com/rifat584"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/md-mahmud-ullah-hasan/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
 </p>
