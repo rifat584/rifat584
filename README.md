@@ -43,7 +43,7 @@ I am consistent in learning, problem-solving, and improving my full-stack develo
 ## 🔗 Connect With Me
 <p>
   <a href="https://github.com/rifat584"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/md-mahmud-ullah-hsasan"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/md-mahmud-ullah-hasan/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
