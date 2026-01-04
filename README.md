@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co.com/4ZQkhzZ6/Purple-and-Black-Modern-Software-Developer-Linked-In-Banner.png)
+![Banner](https://i.imgur.com/ivfmPRC.png)
 
 # 👋 Hi, I'm Md Mahmud Ullah Hasan
 ### Junior MERN Stack Developer
