@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Mahmud Ullah Hasan</h1>
-<h3 align="center">Full-Stack MERN Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
   React • Next.js • Node.js • MongoDB
