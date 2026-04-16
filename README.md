@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F700FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Building+Real-World+Web+Apps;React+•+Next.js+•+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F700FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Real-World+Web+Apps;React+•+Next.js+•+Node.js" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Mahmud Ullah Hasan</h1>
@@ -16,7 +16,7 @@
   <strong>Full-Stack Developer focused on scalable, real-time applications</strong>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -28,7 +28,7 @@ Experienced with <strong>Stripe, Socket.IO, and GitHub API integrations</strong>
 through projects like Zyplo and GhorerMeal.
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ through projects like Zyplo and GhorerMeal.
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,tailwind,firebase,git,github,vercel" />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -62,7 +62,7 @@ through projects like Zyplo and GhorerMeal.
 Role-based access • Real-time updates • GitHub integration • Stripe billing
 </p>
 
----
+
 
 ### 🍱 GhorerMeal – Meal Marketplace
 
@@ -83,7 +83,7 @@ Role-based access • Real-time updates • GitHub integration • Stripe billin
 Role-based dashboards • Stripe payments • Order system • Real-time chat
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -92,7 +92,7 @@ Role-based dashboards • Stripe payments • Order system • Real-time chat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat584&theme=radical" height="150" />
 </p>
 
----
+
 
 ## 📫 Connect With Me
 
