@@ -51,7 +51,7 @@ I have experience developing production-style applications including team collab
 
 ### 🧠 Zyplo – Project Management Platform
 
-<img src="https://github.com/rifat584/Zyplo/blob/main/assets/zyplo.png?raw=true" width="100%" />
+<img src="https://github.com/rifat584/rifat584/blob/main/assets/zyplo.png?raw=true" width="100%" />
 
 **Live:** https://zyplo-six.vercel.app/
 **Frontend Repo:** https://github.com/rifat584/Zyplo
@@ -68,7 +68,7 @@ I have experience developing production-style applications including team collab
 
 ### 🍱 GhorerMeal – Meal Marketplace
 
-<img src="https://github.com/rifat584/Zyplo/blob/main/assets/ghorermeal.png?raw=true" width="100%" />
+<img src="https://github.com/rifat584/rifat584/blob/main/assets/ghorermeal.png?raw=true" width="100%" />
 
 **Live:** https://ghorermeal.web.app/
 **Repo:** https://github.com/rifat584/GhorerMeal
