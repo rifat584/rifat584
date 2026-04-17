@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://i.imgur.com/ivfmPRC.png" />
+  <img src="https://github.com/rifat584/rifat584/blob/main/assets/github-cover.png?raw=true" width="100%%" />
 </p>
 
 <!-- Typing Animation -->
